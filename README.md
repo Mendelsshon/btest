@@ -1,1 +1,2 @@
-# btest, checking if my ssh works okay, 11-18-16
+# btest
+# testing with my local repo via ssh
